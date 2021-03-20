@@ -1,0 +1,4 @@
+{
+    "DB_HOST" : "mongodb+srv://rawdha123456:rawdha123456@cluster0.6wk0e.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "secretOrKey" :"my secret"
+}
